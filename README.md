@@ -1,4 +1,6 @@
 <h1>Lazyload.js</h1>
-{::nomarkdown}
+{{#markdown}}
+```html
 <img data-src="example.jpg" class="lazy-load">
-{:/}
+```
+{{/markdown}}
