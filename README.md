@@ -9,7 +9,7 @@
 </p>
 
 ```html
-<img data-src="example.jpg" class="lazy-load">
+<img src="example.jpg" class="lazy-load">
 ```
 
 <p>
